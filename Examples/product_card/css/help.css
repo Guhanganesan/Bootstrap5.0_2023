@@ -1,0 +1,97 @@
+/*
+Example 1:
+padding: 25px 50px 75px 100px;
+
+top padding is 25px
+right padding is 50px
+bottom padding is 75px
+left padding is 100px
+
+=> All four paddings are 25px
+=> The box-sizing property to keep the width at 300px, no matter the amount of padding
+
+----------------------------------------------
+
+Example 2:
+
+box-shadow: top(px) right(px) bottom(px) left(px)
+
+------------------------------------------------
+
+Example 3:
+
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 0.02s;
+}
+
+div:hover {
+  width: 110px;
+  box-shadow:0px 10px 10px red;
+}
+
+-------------------------------------------------
+
+
+Example 4:
+
+Animations
+
+  @keyframes
+  animation-name
+  animation-duration
+  animation-delay
+  animation-iteration-count
+  animation-direction
+  animation-timing-function
+  animation-fill-mode
+  animation
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+
+And
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  0%   {background-color: red;}
+  25%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  100% {background-color: green;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
