@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: pink;
+}
+.section-padding{
+    padding: 100px 0;
+}
+.section-header{
+    padding-bottom: 30px;
+}
+.navbar-brand, .nav-link{
+    color:#fff !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.navbar-nav, .nav-link{
+    padding-right: 0;
+    padding-left: 0;
+    color: #fff !important;
+    font-weight: bold;
+}
+.nav-item{
+    padding:0 10px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
