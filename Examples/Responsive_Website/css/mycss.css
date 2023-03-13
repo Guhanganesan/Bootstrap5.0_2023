@@ -2,6 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: pink;
 }
+html{
+    scroll-behavior: smooth;
+}
 .navbar-brand, .nav-link{
     color:#fff !important;
     text-transform: uppercase;
