@@ -12,7 +12,32 @@
 8.  .text-lowercase	    -   Indicates lowercased text	
 9.  .text-uppercase	    -   Indicates uppercased text	
 10. .text-capitalize	-   Indicates capitalized text	
-11. .initialism	    -   Displays the text inside an <abbr> element in a slightly smaller font size	
-12. .list-unstyled	-   Removes the default list-style and left margin on list items (works on both <ul> and <ol>). This class only applies to immediate children list items (to remove the default list-style from any nested lists, apply this class to any nested lists as well)
-13. .list-inline	-   Places all list items on a single line (used together with .list-inline-item on each <li> elements)
+11. .initialism	    -   Displays the text inside an abbr element in a slightly smaller font size    	
+12. .list-unstyled	-   Removes the default list-style
+13. .list-inline	-   Places all list items on a single line (used together with .list-inline-item on each li elements)
+
+# Text Colors
+
+1.  .text-muted  
+2.  .text-primary
+3.  .text-success   
+4.  .text-info  
+5.  .text-warning   
+6.  .text-danger    
+7.  .text-secondary 
+8.  .text-white 
+9.  .text-dark  
+10. .text-body (default body color/often black) 
+11. .text-light
+
+#  Background Colors
+
+1.  .bg-primary 
+2.  .bg-success 
+3.  .bg-info    
+4.  .bg-warning 
+5.  .bg-danger  
+6.  .bg-secondary   
+7.  .bg-dark 
+8.  .bg-light
 
