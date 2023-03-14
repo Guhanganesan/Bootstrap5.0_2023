@@ -41,3 +41,44 @@
 7.  .bg-dark 
 8.  .bg-light
 
+# Text Background Colors
+
+1.  .text-bg-primary
+2.  .text-bg-success
+3.  .text-bg-info
+4.  .text-bg-warning
+5.  .text-bg-danger
+6.  .text-bg-secondary
+7.  .text-bg-dark
+8.  .text-bg-light
+
+# Table
+
+1.  .table
+2.  .table-striped
+3.  .table-bordered
+4.  .table-hover
+5.  .table-dark
+6.  .table-borderless
+7.  .table-sm class makes the table smaller by cutting cell padding in half.
+8.  .table-responsive class adds a scrollbar to the table when needed.
+9.  .table-responsive-sm	< 576px
+10. .table-responsive-md	< 768px
+11. .table-responsive-lg	< 992px
+12. .table-responsive-xl	< 1200px
+13. .table-responsive-xxl	< 1400px
+
+# Table Rows Colors 
+
+For each row,
+
+1.  .table-primary	    -   Blue: Indicates an important action
+2.  .table-success	    -   Green: Indicates a successful or positive action
+3.  .table-danger	    -   Red: Indicates a dangerous or potentially negative action
+4.  .table-info	        -   Light blue: Indicates a neutral informative change or action
+5.  .table-warning	    -   Orange: Indicates a warning that might need attention
+6.  .table-active	    -   Grey: Applies the hover color to the table row or table cell
+7.  .table-secondary    -	Grey: Indicates a slightly less important action
+8.  .table-light	    -   Light grey table or table row background
+9.  .table-dark	        -   Dark grey table or table row background
+
