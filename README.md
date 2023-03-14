@@ -82,3 +82,34 @@ For each row,
 8.  .table-light	    -   Light grey table or table row background
 9.  .table-dark	        -   Dark grey table or table row background
 
+# Images
+
+1.  .rounded
+2.  .rounded-circle
+3.  .img-thumbnail
+4.  .float-start
+5.  .float-end
+6.  .mx-auto    -  margin:auto
+7.  .d-block    -  display:block
+8.  .img-fluid  -  max-width: 100%; and height: auto
+
+# Buttons
+
+1.  .btn
+2.  .btn-primary, .btn-secondary, .btn-success, .btn-link etc.,
+3.  .btn-outline-primary, .btn-outline-secondary, btn-outline-success etc.,
+4.  .btn-lg & btn-sm
+5.  .btn-block (full width) but parent .d-grid
+6.  .active & .disabled 
+7.  .spinner-border (span element as child) & .spinner-grow
+8.  .btn-group (parent) and groups of buttons are being used as child elements
+9.  .btn-group-lg
+10. .btn-group-sm
+11. .btn-group-vertical
+12. .dropdown-toggle
+
+# Alerts
+
+1.  .alert
+2.  .alert-success, .alert-info, .alert-warning, .alert-danger, .alert-primary, .alert-secondary, .alert-light or .alert-dark
+3.  alert-dismissible (button as child element with class .btn-close)
