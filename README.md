@@ -1,5 +1,42 @@
 # Bootstrap 5 Examples
 
+# Borders
+
+1.  .border
+2.  .border-top
+3.  .border-end
+4.  .border-bottom
+5.  .border-start
+
+# Margins
+
+1.  .m-0         -   No Margin
+2.  .mt-5        -   Margin Top
+3.  .mr-6        -   Margin Right
+4.  .m-5         -   Large Margin
+
+# Paddings
+
+1.  p-0     -   No padding
+2.  pt-5    -   Large padding top
+3.  pr-5    -   Large padding right
+
+# Display Properties
+
+1.  d-inline    -   display inline
+2.  d-block     -   display block
+3.  d-flex      -   display flex
+4.  d-none      -   display none
+5.  d-none d-lg-block   -   Visible on large screens, hidden on smaller resolutions
+
+#   Shadows
+
+1.  .shadow
+2.  .shadow-none
+3.  .shadow-sm
+4.  .shadow-lg
+
+
 # Typography Classes
 
 1.  .lead    -   Makes a paragraph stand out	
